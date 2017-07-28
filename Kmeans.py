@@ -1,8 +1,3 @@
-"""
-FINAL PROJECT - PHASE 2
-@author: ABDERREZAK ALLALEN
-"""
-
 import pandas as pd
 import numpy as np
 import os
