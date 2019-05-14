@@ -1,2 +1,2 @@
 # MachineLearning
-Machine Learning code repo
+AI and Machine Learning code repo
